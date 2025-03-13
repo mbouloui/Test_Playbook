@@ -1,4 +1,4 @@
----
+--- test
 
 - hosts: all
   gather_facts: false
